@@ -9,3 +9,4 @@
 8-firstdelete: removes the file "betty".
 9-firstdirdeletion: removes the directory /my_first_directory
 10-back: navigates one path backwards.
+11-lists: list all files including hidden in the working directory, the parent and the /boot. in long format.
