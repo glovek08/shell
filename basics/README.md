@@ -11,3 +11,4 @@
 10-back: navigates one path backwards.
 11-lists: list all files including hidden in the working directory, the parent and the /boot. in long format.
 12-file_type: display the type of file of iamafile.
+13-symbolic_link: creates a symbolic link to /bin/ls named.
