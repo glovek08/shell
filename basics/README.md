@@ -5,4 +5,5 @@
 4-listmorefiles: list files in the current working directory in the long format including hidden files.
 5-listfilesdigitonly: list files in long format with user and group ID including hidden files.
 6-firstdirectory: creates the directory /my-first-directory in the /tmp/ directory.
-7-movethatfile: moves the file "betty" to /my_first_directory
+7-movethatfile: moves the file "betty" to /my_first_directory.
+8-firstdelete: removes the file "betty".
