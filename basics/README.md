@@ -3,3 +3,4 @@
 2-bring_me_home: navigates to home directory.
 3-listfiles: list files in the current working directory in the long format.
 4-listmorefiles: list files in the current working directory in the long format including hidden files.
+5-listfilesdigitonly: list files in long format with user and group ID including hidden files.
