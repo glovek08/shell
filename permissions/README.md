@@ -4,4 +4,6 @@
 3-new_owner: changes the owner of the file hello to betty.
 4-empty: creates a empty hello file.
 5-execute: gives execute permissoins to the file owner of 'hello'.
+6-multiple_permissions: script that adds execute permission to the owner and group owner and read for users for the file 'hello'.
 16-if_only: changes the owner of the file hello to vincent only if it is owned by the user 'guillaume'.
+
