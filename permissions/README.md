@@ -1,3 +1,5 @@
+# Script Descriptions.
+
 0-iam_betty: changes the current user to "betty". <br />
 1-who_am_i: display username of the current user. <br />
 2-groups: display current user groups. <br />
