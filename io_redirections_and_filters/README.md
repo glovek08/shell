@@ -1,6 +1,6 @@
-0-hello_world: prints "Hello, World" followed by a new line. <br />
-1-confused_smiley: prints a confused smile. <br />
-2-hellofile: display the content of the /etc/passwd. <br />
+**0-hello_world** : prints "Hello, World" followed by a new line. <br />
+**1-confused_smiley**: prints a confused smile. <br />
+**2-hellofile**: display the content of the /etc/passwd. <br />
 3-twofiles: display the content of /etc/passwd and /etc/hosts. <br />
 4-lastlines: display 10 last lines of /etc/passwd. <br />
 5-firstlines: display first 10 lines of /etc/passwd. <br />
