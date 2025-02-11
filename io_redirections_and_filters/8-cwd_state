@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > touch lw_cwd_content
