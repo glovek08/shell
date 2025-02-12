@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $PATH | grep -c ^d
+ls -d ${PATH//:/ } 2>/dev/null | wc -l
